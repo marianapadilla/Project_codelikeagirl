@@ -1,0 +1,19 @@
+h1 {
+    text-align: center;
+    background-color: palevioletred;
+}
+
+h2 {
+        font-family: Georgia;
+        border: dashed;
+        text-align: center;
+        background-color: lightslategrey;
+}
+
+#video_centro {
+    float: right;
+}
+
+.cuadros {
+    background-color: darkslategray;
+}
