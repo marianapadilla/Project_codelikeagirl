@@ -1,0 +1,81 @@
+body {
+    margin-right: 55px;
+    margin-left: 55px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.container-fluid1 {
+    background-color: rgb(197, 255, 197);
+}
+
+h2 {
+    font-family: Cambria, Cochin, Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    margin-bottom: 25px;
+    margin-top: 18px;
+}
+
+.padding0 {
+    padding-right: 0px;
+    padding-left: 0px;
+}
+
+.margen1div {
+    margin-left: 50px;
+    margin-right: 0px;
+}
+
+.margen2div {
+    margin-left: 35px;
+    margin-right: 100px;
+    margin-top: 40px;
+}
+
+.texto1 {
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+
+.texto2 {
+    text-align: justify;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+
+.parrafo1 {
+    font-size: 20px;
+    text-align: justify;
+}
+
+h1 {
+    text-align: center;
+    background-color: rgba(65, 204, 31, 0.616);
+    font-family: Times;
+    font-size: 100px;
+    font-weight: 500;;
+    margin-top: 40px;
+    margin-left: 40px;
+}
+
+#cuadros {
+    background-color: rgba(65, 204, 31, 0.616);
+    size: 15pt;
+}
+
+.frase {
+    text-align: center;
+    font-family: Georgia;
+    margin-left: 200px;
+    margin-bottom: 60px;
+    font-size: 30px;
+}
+
+.carousel-inner {
+    width: 100%;
+    height: auto;
+}
+
+h5 {
+    font-size: 30px;
+}
